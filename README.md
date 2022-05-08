@@ -1,6 +1,6 @@
 # BebeCody_vs_Shooter
 
-Para poder ejecutar BebeCody vs Shooter se debera tener previamnete instalado lo siguiente:
+Para poder ejecutar BebeCody vs Shooter se debera tener previamente instalado lo siguiente:
 
   - Librería pygame
   - Módulo Os
